@@ -1,0 +1,25 @@
+# Compiled files
+*.class
+out/
+build/
+target/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.gigaide/
+.mvn/
+mvnw
+mvnw.cmd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local files
+output/
